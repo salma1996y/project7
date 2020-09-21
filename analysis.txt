@@ -1,0 +1,3 @@
+Positive count = 25665
+Negative count = 25363
+Total unique words = 100405
